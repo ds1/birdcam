@@ -1,1 +1,1 @@
-# birdcam
+# birdfeed.cam
